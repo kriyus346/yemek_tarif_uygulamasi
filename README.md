@@ -25,7 +25,8 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş basit bir **yemek_tari
 ![image](https://github.com/user-attachments/assets/7615dee7-7dc9-44eb-9e60-98eedba9404c)
 
 Sonra yine Microsoft store üzerinden istediğiniz python 3.x indiriyoruz
-![image](https://github.com/user-attachments/assets/db55f113-3101-4bc7-bf00-f146ae0d465e)
+![image](https://github.com/user-attachments/assets/6879acc4-fefd-41fe-b656-29079acc96bf)
+
 
 enson yemek_tarif_uygulamasi.py kodunu indirip visual studio code içine atıp sağ tık yaptıktan sonra mavi ile görünen kısma tıklıyoruz ve kod çalışıyor
 
